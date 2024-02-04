@@ -29,10 +29,11 @@ For the backend, I mostly used python as my main language. For the front-end, I 
 
 To run the project : 
 
-'conda env create -f env.yml 
-conda activate guessyt
-python app.py
-''
+`conda env create -f env.yml`
+
+`conda activate guessyt`
+
+`python app.py`
 
 # PS: You will need a powerful GPU to generate the diffusion model based images faster. Otherwise, it may take a while.  
 ## Sample Results 
