@@ -27,6 +27,7 @@ The title of the video is essentially used to curate the hints.
 
 For the backend, I mostly used python as my main language. For the front-end, I used HTML, CSS and JS for the interactions. I also used Flask to connect and exchange the information from backend to front-end. 
 
+# PS: You will need a powerful GPU to generate the diffusion model based images faster. Otherwise, it may take a while.  
 ## Sample Results 
 
 # MKBHD
