@@ -38,14 +38,8 @@ To run the project :
 # PS: You will need a powerful GPU to generate the diffusion model based images faster. Otherwise, it may take a while.  
 ## Sample Results 
 
-# MKBHD
+![](https://github.com/sanketsans/GuessYT/blob/main/media/media.gif), ![](https://github.com/sanketsans/GuessYT/blob/main/media/media2.gif), ![](https://github.com/sanketsans/GuessYT/blob/main/media/media3.gif)
 
-![](https://github.com/sanketsans/GuessYT/blob/main/media/mkbhd_genai.gif), ![](https://github.com/sanketsans/GuessYT/blob/main/media/mkbhd_text.gif), ![](https://github.com/sanketsans/GuessYT/blob/main/media/mkbhd_text1.gif)
-
-# HBO 
-![](https://github.com/sanketsans/GuessYT/blob/main/media/HBO_genai.gif), ![](https://github.com/sanketsans/GuessYT/blob/main/media/HBO_text.gif) 
-
-## Check other results [here](https://github.com/sanketsans/GuessYT/tree/main/media) 
 
 ## If you liked the project, consider hitting a 🌟
 
